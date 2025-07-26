@@ -1,7 +1,3 @@
-<h1 align="center">
-  <a href="https://www.google.com/#">
-    <img src="docs/assets/logo.png">
-  </a>
-</h1>
+# DataPie
 
-<div align="center">A collection of OSS for designing a data lakehouse architecture.</div>
+A collection of OSS for designing a data lakehouse architecture.
