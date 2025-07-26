@@ -5,3 +5,7 @@
 ### 1.1 Project Objective
 
 DataPie is a personal project to support my self-learning and share knowledge about modern data platform technologies. The project provides a compact, configurable architecture based on Docker and Docker Compose, which can run entirely on a local macOS machine. The project is designed with the simple purpose of sharing my knowledge with the community.
+
+### 1.2 Scope
+
+The system simulates modern data architecture from ingestion to querying and serving. The system is not designed for production but is intended for testing, research and self-learning purposes only.
